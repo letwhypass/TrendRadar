@@ -61,6 +61,17 @@ NVIDIA
 AMD
 外企
 
+大A
+上证
+深证
+创业板指
+港股
+美股
+股市
+有色金属
+ETF
+市值
+
 苹果
 iWatch
 iphone
